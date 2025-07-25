@@ -7,7 +7,7 @@ A basic calculator built with **HTML**, **CSS**, and **JavaScript** to perform s
 - Addition, Subtraction, Multiplication, Division
 - Clear & Delete functionality
 - Responsive layout for small screens
-- Keyboard input support (optional: if you’ve added it)
+- Keyboard input support
 
 ## Built With
 
