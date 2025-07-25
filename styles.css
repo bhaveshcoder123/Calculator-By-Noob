@@ -1,0 +1,40 @@
+#container {
+    background-color: black;
+    color : white;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items : center;
+}
+
+.row {
+    display : flex;
+    justify-content: center;
+    align-items : center;
+}
+
+.button {
+    font-size : 1.5rem;
+    margin : 5px;
+    background-color : rgb(42, 42, 44);
+    padding : 20px;
+    border : 2px solid black;
+    border-radius: 50%;
+    cursor : pointer;
+}
+
+input {
+    background-color : pink;
+    width : 50vw;
+    font-size : 1.8rem;
+    padding : 5px;
+    border : 2px solid purple;
+}
+
+.grey-color {
+    background-color: rgb(92,92,95);
+}
+
+.orange-color{
+    background-color: rgb(255 , 158 , 11);
+}
